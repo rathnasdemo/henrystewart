@@ -7,7 +7,7 @@ title: About
 description: The purpose and editorial principles behind this publication.
 language: en-US
 authors:
-- 01a141cb-f22c-7093-a404-6752d95401f7
+  - 01a141cb-f22c-7093-a404-6752d95401f7
 tags: []
 status: published
 createdAt: '2026-10-15T23:00:47.276Z'
@@ -16,16 +16,8 @@ slug: about
 redirects: []
 extensions: {}
 ---
+Henry Stewart is a filmmaker from London. On his YouTube channel, [Henry Stewart History](https://www.youtube.com/@Henrystewart), he makes history videos.
 
-This publication is a place for considered work: finished essays, useful field
-notes, and the ideas that become clearer through writing.
+The articles on this site are written versions of his videos, each one linked to the original. The first three cover Imperial Japan, the fall of France in 1940 and the outbreak of World War I.
 
-## Editorial principles
-
-- Prefer evidence to certainty.
-- Make the useful detail easy to find.
-- Revise in public when the facts change.
-- Keep ownership of the archive and its history.
-
-It is created and published with Galascribe, while its Markdown content and
-publication settings remain in this repository.
+**This is a preview.** Galascribe built this site from Henry's videos to show what a written version of the channel could look like. Henry hasn't claimed it yet, and it is hidden from search engines until he does. Questions: support@galascribe.com.
