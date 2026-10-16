@@ -7,6 +7,10 @@
   "footerComposition": "profile",
   "typeScale": "standard",
   "fontAssetRefs": [],
-  "tokens": {},
+  "tokens": {
+    "accent": { "light": "#27272a", "dark": "#a1a1a4" },
+    "canvas": { "light": "#f7f7f8", "dark": "#111113" },
+    "text": { "light": "#18181b", "dark": "#ececef" }
+  },
   "extensions": {}
 }
